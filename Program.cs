@@ -12,8 +12,6 @@ King1.duchyPoints = Convert.ToInt16(Console.ReadLine());
 Console.WriteLine("How many estates does {0} hold? ", King1.kingName);
 King1.estatePoints = Convert.ToInt16(Console.ReadLine());
 
-
-
 Console.WriteLine("\nWhat is the name of the 2nd King? ");
 King2.kingName = Console.ReadLine();
 Console.WriteLine("How many provinces does {0} hold? ", King2.kingName);
